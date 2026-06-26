@@ -117,7 +117,7 @@ S3 (novo arquivo) → [Trigger/Gatilho] → Lambda → processa o arquivo
 ```
 ---
 
-## Diagrama (Animado)
+## <img width="24" height="24" alt="icons8-fluxograma-24" src="https://github.com/user-attachments/assets/21031770-1102-46be-b641-6e3c91aa2abf" /> Diagrama (Animado)
 
 <img width="810" height="654" alt="Desafio_GerenciandoInstanciasEC2naAWS" src="https://github.com/user-attachments/assets/9d674acb-8a15-4cd9-ab44-bcb8fa72f838" />
 
