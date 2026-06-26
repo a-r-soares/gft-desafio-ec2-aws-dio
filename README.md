@@ -122,13 +122,11 @@ S3 (novo arquivo) → [Trigger/Gatilho] → Lambda → processa o arquivo
 
 ```
 
-<img width="810" height="654" alt="Desafio_GerenciandoInstanciasEC2naAWS" src="https://github.com/user-attachments/assets/abcf4646-4661-4c41-9675-f5533179a64b" />
+<img width="810" height="654" alt="Desafio Gerenciando Instancias EC2 na AWS" src="https://github.com/user-attachments/assets/e53ff56e-262c-48c5-9772-3c6e2c5b9e6f" />
 
 
 ```
-
-
-
+---
 
 ## ❓ Perguntas Frequentes
 
