@@ -118,7 +118,14 @@ S3 (novo arquivo) → [Trigger/Gatilho] → Lambda → processa o arquivo
 
 ---
 
-<img width="810" height="654" alt="Desafio_GerenciandoInstanciasEC2naAWS" src="https://github.com/user-attachments/assets/272b4d7d-b9d2-4df9-b6fd-bcaa0fba8d6b" />
+## 🗺️ Diagrama (Animado)
+
+```
+
+<img width="810" height="654" alt="Desafio_GerenciandoInstanciasEC2naAWS" src="https://github.com/user-attachments/assets/abcf4646-4661-4c41-9675-f5533179a64b" />
+
+
+```
 
 
 
