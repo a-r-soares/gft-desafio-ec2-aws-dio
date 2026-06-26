@@ -118,6 +118,11 @@ S3 (novo arquivo) → [Trigger/Gatilho] → Lambda → processa o arquivo
 
 ---
 
+<img width="810" height="654" alt="Desafio_GerenciandoInstanciasEC2naAWS" src="https://github.com/user-attachments/assets/272b4d7d-b9d2-4df9-b6fd-bcaa0fba8d6b" />
+
+
+
+
 ## ❓ Perguntas Frequentes
 
 **Por que usar EBS se existe o S3?**
