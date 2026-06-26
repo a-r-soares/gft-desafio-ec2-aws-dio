@@ -115,17 +115,12 @@ S3 (novo arquivo) → [Trigger/Gatilho] → Lambda → processa o arquivo
                             [Lambda] ──processa──► ...  │
                   └─────────────────────────────────────┘
 ```
-
 ---
 
-## 🗺️ Diagrama (Animado)
+## Diagrama (Animado)
 
-```
+<img width="810" height="654" alt="Desafio_GerenciandoInstanciasEC2naAWS" src="https://github.com/user-attachments/assets/9d674acb-8a15-4cd9-ab44-bcb8fa72f838" />
 
-<img width="810" height="654" alt="Desafio Gerenciando Instancias EC2 na AWS" src="https://github.com/user-attachments/assets/e53ff56e-262c-48c5-9772-3c6e2c5b9e6f" />
-
-
-```
 ---
 
 ## ❓ Perguntas Frequentes
@@ -157,3 +152,5 @@ Quer aprender mais? Confira:
 ---
 
 > 🚀 **Lembre-se:** A melhor forma de aprender AWS é praticando! Melhor ainda acompanhando os treinamentos da DIO!
+>
+
