@@ -121,6 +121,9 @@ S3 (novo arquivo) → [Trigger/Gatilho] → Lambda → processa o arquivo
 
 <img width="810" height="654" alt="Desafio_GerenciandoInstanciasEC2naAWS" src="https://github.com/user-attachments/assets/9d674acb-8a15-4cd9-ab44-bcb8fa72f838" />
 
+
+> 💡 **Dica:** O arquivo _Desafio_GerenciandoInstanciasEC2naAWS.drawio_  contendo o diagrama acima, encontrase na pasta [images](./images)
+
 ---
 
 ## ❓ Perguntas Frequentes
